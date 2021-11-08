@@ -1,7 +1,7 @@
 /*
 滴答清单 unlock pro
 QX:
-^https:\/\/(ticktick|dida365)\.com\/api\/v2\/user\/status url script-response-body https://raw.githubusercontent.com/litieyin/AD_VIP/main/Script/DiDaQingDan.js
+^https:\/\/(ticktick|dida365)\.com\/api\/v2\/user\/status url script-response-body https://raw.githubusercontent.com/CQGFW/Surge/main/UnLockApp/Script/DiDaQingDan.js
 
 hostname = dida365.com, ticktick.com
 */
